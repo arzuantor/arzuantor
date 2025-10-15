@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">My name is Arzu Antor and I'm a Student from Manikganj</h1>
 
 <div align="center">
   <img height="150" src="F:\The Bads Of bollywod\img.jpg"  />
