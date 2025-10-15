@@ -1,23 +1,5 @@
 <h1 align="center">My name is Arzu Antor and I'm a Student from Manikganj</h1>
 
-<div align="center">
-  <img height="150" src="F:\The Bads Of bollywod\img.jpg"  />
-</div>
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-<p align="left">My name is Arzu Antor and I'm a Student from Manikganj</p>
-
 ###
 
 <h2 align="left">About me</h2>
