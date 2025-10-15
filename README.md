@@ -1,4 +1,4 @@
-<h1 align="center">My name is Arzu Antor and I'm a Student from Manikganj</h1>
+<h1 align="center">Hi 👋, I'm Arzu Antor</h1>
 
 ###
 
