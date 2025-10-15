@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/1a9163caa9c85ccca6d52b5109d3ed5c2620cce29e450efc14385e3919dbb633/68747470733a2f2f692e6962622e636f2e636f6d2f595457787764472f536d616c6c2d6176617461722e706e67"  />
+  <img height="150" src="F:\The Bads Of bollywod\img.jpg"  />
 </div>
 
 
